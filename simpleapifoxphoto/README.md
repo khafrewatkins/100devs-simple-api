@@ -1,5 +1,5 @@
-5 I completed the challenge. 
-5 I feel good about my code.  
+I completed the challenge: 5
+I feel good about my code: 5  
 Although I chose a simpler one after eventually figuring out my extensions in my browser may have broken my other api attempts.  Smh and will revist the ones that got away.  Also, I feel like or know I definitely need help structing my code based on the api.  They are not the same and sweet mother of ... they are not all well documented. 
 
 # 🚀 #100Devs Simple API Homework
